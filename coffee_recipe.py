@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print("4. Add sugar and milk (optional)")
     print("5. Let it steep")
     print("6. Enjoy your coffee!")
+    print("7. Clean up the coffee maker")
